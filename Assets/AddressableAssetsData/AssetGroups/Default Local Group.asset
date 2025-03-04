@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e62f0d55bbc291042b4e85a98a643293
+  m_SerializeEntries:
+  - m_GUID: a762260455ad7e44da17f0d0d9f33106
+    m_Address: Assets/Prefabs/InventoryTile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3d540b8e6b4c7b4aa5c36983f83bcce
+    m_Address: Assets/Configs/ItemConfigs/Ammo/AmmoAItemConfig.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e1124139b3697444b55bbbac6a9f97d
+    m_Address: Assets/Configs/ItemConfigs/Ammo/AmmoBItemConfig.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61c8aa37b0a081146bfc2ccf674a2581
+    m_Address: Assets/Configs/ItemConfigs/Guns/PistolItemConfig.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 498fba3ad5aa4fc48955375f1051f9c7
+    m_Address: Assets/Configs/ItemConfigs/Guns/RifleItemConfig.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2a6d7f4b5c6354429d455f922f142e1
+    m_Address: Assets/Configs/ItemConfigs/Resistance/Head/CapConfig.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76bfdaaac2c41e048a8ecfe6e04a44af
+    m_Address: Assets/Configs/ItemConfigs/Resistance/Torse/ShieldConfig.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d476600678d1e65458b8027c7f1e413a
+    m_Address: Assets/Configs/ItemConfigs/Resistance/Torse/JacketConfig.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b2cb852a51a22d4d8e52db0f0438eab
+    m_Address: Assets/Configs/ItemConfigs/Resistance/Head/HelmetConfig.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9872accc6a1dc4844ab7916936a4c8ff, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 846c8923b8c971940a57c194d8710bb6, type: 2}
+    - {fileID: 11400000, guid: 460d019324ca9b54d872e11611c3373f, type: 2}
