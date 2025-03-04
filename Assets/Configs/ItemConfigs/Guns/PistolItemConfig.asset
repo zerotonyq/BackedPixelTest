@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b96288eaaa28434f86166ace689a07ff, type: 3}
+  m_Name: PistolItemConfig
+  m_EditorClassIdentifier: 
+  sprite: {fileID: -1619330053, guid: 89ff305bc48a25041aef2dc149b738fa, type: 3}
+  color: {r: 1, g: 0, b: 0, a: 0}
+  canBeStacked: 1
+  weight: 0
+  stackSize: 0
+  ammoItemConfig: {fileID: 11400000, guid: a3d540b8e6b4c7b4aa5c36983f83bcce, type: 2}
+  damage: 10

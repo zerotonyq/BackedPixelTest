@@ -1,0 +1,405 @@
+fileFormatVersion: 2
+guid: 89ff305bc48a25041aef2dc149b738fa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GFX-01_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3164
+        width: 1035
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5b97bfbce30d74391f0a85bedc19e7
+      internalID: 224219325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GFX-01_1
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 3164
+        width: 1035
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defce1d53b8cb2e4fb22b3c0d6f2f430
+      internalID: 278586116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GFX-01_2
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 3164
+        width: 1031
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc982b2b42faa4438838ff740d32416
+      internalID: -1457722564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GFX-01_3
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 3164
+        width: 1034
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6071a3bd058627b4ab4434c76ea23ae0
+      internalID: -448345622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GFX-01_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1953
+        width: 1033
+        height: 1034
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bb47c1e17dcb145a03bade59f6580b
+      internalID: 1956602871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GFX-01_37
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 2176
+        width: 503
+        height: 525
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1c099a808f0494aa4d9892d5e97d07
+      internalID: 282948228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GFX-01_7
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 2185
+        width: 600
+        height: 585
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a68252313dc30f418dbb451b5e4b16f
+      internalID: -1619330053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GFX-01_5
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 2078
+        width: 748
+        height: 758
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873a21f70248d2249bac265c543b62dd
+      internalID: 662305832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GFX-01_6
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 1012
+        width: 979
+        height: 689
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bece1d2603dbf4d8e8c35f857d5620
+      internalID: 1361946659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GFX-01_8
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 1170
+        width: 769
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3511db7b968bf4a4983be0dff927551b
+      internalID: -654675556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GFX-01_9
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 891
+        width: 606
+        height: 743
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c174f0a9d46aded4f99bf38441184c3a
+      internalID: -1327581410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GFX-01_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1022
+        width: 738
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be79b766a44dc24d955ad07dc2a6860
+      internalID: 1695509270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GFX-01_0: 224219325
+      GFX-01_1: 278586116
+      GFX-01_10: 1695509270
+      GFX-01_11: 185737730
+      GFX-01_12: -1356455556
+      GFX-01_13: -350836493
+      GFX-01_14: 1658189820
+      GFX-01_15: 419263592
+      GFX-01_16: -95868995
+      GFX-01_17: 209300076
+      GFX-01_18: -1579307826
+      GFX-01_19: 1687564208
+      GFX-01_2: -1457722564
+      GFX-01_20: 1358627711
+      GFX-01_21: -1978438937
+      GFX-01_22: -1252466420
+      GFX-01_23: 1450517584
+      GFX-01_24: -2078637478
+      GFX-01_25: 769139812
+      GFX-01_26: 2115887766
+      GFX-01_27: 1892627624
+      GFX-01_28: 1889791352
+      GFX-01_29: 359916174
+      GFX-01_3: -448345622
+      GFX-01_30: -1923782450
+      GFX-01_31: -1114252056
+      GFX-01_32: 1205323095
+      GFX-01_33: -1932868669
+      GFX-01_34: -887288558
+      GFX-01_35: -996906824
+      GFX-01_36: 454318294
+      GFX-01_37: 282948228
+      GFX-01_38: -258096612
+      GFX-01_4: 1956602871
+      GFX-01_5: 662305832
+      GFX-01_6: 1361946659
+      GFX-01_7: -1619330053
+      GFX-01_8: -654675556
+      GFX-01_9: -1327581410
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
