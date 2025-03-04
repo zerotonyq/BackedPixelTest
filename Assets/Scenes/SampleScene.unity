@@ -512,7 +512,7 @@ MonoBehaviour:
   itemUIService: {fileID: 81488367}
   inventoryUIService: {fileID: 81488368}
   inventoryServiceConfig: {fileID: 11400000, guid: c0db24a1a81aa984d963e2e635d4ae98, type: 2}
-  itemProviderConfig: {fileID: 11400000, guid: 16e1fcb4a8039f04f9c27b9633f257b4, type: 2}
+  itemConfigProviderConfig: {fileID: 11400000, guid: 16e1fcb4a8039f04f9c27b9633f257b4, type: 2}
 --- !u!114 &933736771
 MonoBehaviour:
   m_ObjectHideFlags: 0
